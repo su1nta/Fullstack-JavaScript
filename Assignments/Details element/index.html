@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css">
+        .wrapper{
+            height:98vh;
+            width:98vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin:0px;
+            padding:0px;
+        }
+        details{
+            height:auto;
+            width:auto;
+            padding:5px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        summary{
+            height:15px;
+            width:100px;
+            padding:5px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border:1px solid antiquewhite;
+            background-color: antiquewhite;
+            user-select:none;
+            transition:.3s;
+
+        }
+        summary:hover{
+            padding:5px 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">    
+        <details>
+            <summary>
+                Open Me
+            </summary>
+            This is a sample text demonstrating detail element.
+        </details>
+    </div>
+</body>
+</html>
