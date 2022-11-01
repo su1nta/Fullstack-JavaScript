@@ -1,0 +1,31 @@
+*{
+    font-family: sans-serif;
+}
+caption{
+    caption-side: top;
+    font-size: 90%;
+    font-family: 'Courier New', Courier, monospace;
+    margin:10px;
+}
+table{
+    font-size: 92%;
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+}
+thead, td{
+    padding:5px;
+    text-align: center;
+    margin:0px;
+    border: 2px solid rgb(200,200,200);
+}
+thead td{
+    font-weight: bold;
+    background-color: rgb(230,230,230);
+    padding:5px 15px;
+}
+tbody td:nth-child(even){
+    background-color: rgb(250,250,250);
+}
+tbody td:nth-child(odd){
+    background-color: rgb(245,245,245);
+}
