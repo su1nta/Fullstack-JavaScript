@@ -1,6 +1,6 @@
-***Useful Links***
+*Useful Links*
 
-*SVG Icon Libraries*
+**SVG Icon Libraries**
 - [Material Icons(Google Fonts)](https://fonts.google.com/icons)
 - [Feather Icons](https://feathericons.com/)
 - [The Noun Project](https://thenounproject.com/browse/icons/term/free/?iconspage=1)
@@ -11,8 +11,8 @@
 - [SVG.js](https://svgjs.dev/docs/3.0/)
 - SVGs for Data Visualization, [D3 js](https://d3js.org/)
 
-*Tables*
+**Tables**
 - An article about [how table can be used today by pencilandpaper](https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-data-tables/)
 
-*CSS Resets*
+**CSS Resets**
 - [A Look at CSS resets in 2018](https://bitsofco.de/a-look-at-css-resets-in-2018/)
