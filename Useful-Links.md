@@ -20,6 +20,6 @@
 ### Font Libraries
 - [Google Fonts](https://fonts.google.com/)
 - [Font Library](https://fontlibrary.org/)
-- **Paid**[Adobe Fonts](https://fonts.adobe.com/)
+- (**Paid**) [Adobe Fonts](https://fonts.adobe.com/)
 
 - [A Tutorial on CSS Web Fonts](https://www.w3schools.com/css/css3_fonts.asp)
